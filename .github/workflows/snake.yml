@@ -14,9 +14,9 @@ jobs:
           github_user_name: angelajacinto
           outputs: |
             dist/github-contribution-grid-snake.svg
-        env:
-          COLOR_SNAKE: "#FFC0CB"        # Pink snake
-          BACKGROUND_COLOR: "#00000000"  # Transparent
+        
+          color_snake: "#FFC0CB"
+          background_color: "#00000000"
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
