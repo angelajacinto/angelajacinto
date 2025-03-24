@@ -109,5 +109,6 @@ I am currently exploring scaling projects in cloud platforms like AWS and Azure,
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelajacinto&theme=github&area=true&hide_border=true&start_date=2024-03-23&title_color=FFFFFF&xaxis_color=FFFFFF&yaxis_color=FFFFFF&line=FFC0CB&point=F2A1C4&bg_color=1A1A1A" width="100%">
 
-
 </div>
+
+![Snake animation](https://angelajacinto.github.io/angelajacinto/github-contribution-grid-snake.svg)
