@@ -1,92 +1,113 @@
+<h1 align="left">Angela Jacinto</h1>
+
+<p align="left">
+Hi, I'm Angela Jacinto. A Data Science graduate from The University of Western Australia.<br><br>
+I have developed my programming and tech skills in Python, R, SQL, and Power BI through real-world applications in bioacoustics, statistical modeling, dashboard design, and automation scripting.<br><br>
+I have a strong core foundation in machine learning, data preprocessing, and stakeholder-oriented data storytelling.<br><br>
+I am currently exploring scaling projects in cloud platforms like AWS and Azure, integrating MLOps practices, and building robust data pipelines for production-ready solutions.
+</p>
+
+
 ### `CONNECT WITH ME`
-<div align="center">
+<div align="left">
 
 <a href="mailto:angelajcnto@gmail.com" style="font-size: 20px;">
-  <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/angelajac/" style="font-size: 20px;">
-  <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=Linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/angelajacinto" style="font-size: 20px;">
-  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
+<a href="https://github.com/angelajacinto/angelajacinto/blob/main/Resume%20-%20Angela%20Jacinto.pdf" style="font-size: 20px;">
+  <img src="https://img.shields.io/badge/-Resume-8B0000?style=flat&logo=adobe&logoColor=white" />
 </a>
 
 </div>
-
 
 ### `SKILLS`
-<div align="center">
-  
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000?style=flat&logo=r&logoColor=white" />
+<div align="left">
 
-  <br><br><b>Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-000?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-000?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000?style=flat&logo=matplotlib&logoColor=white" />
+#### Languages & Version Control
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-FFC0CB?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-F2A1C4?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/R-FFC0CB?style=for-the-badge&logo=r&logoColor=276DC3" />
+  <img src="https://img.shields.io/badge/GIT-F2A1C4?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GITHUB-FFC0CB?style=for-the-badge&logo=github&logoColor=181717" />
+</p>
 
-  <br><br><b>Tools:</b><br>
-  <img src="https://img.shields.io/badge/Power%20BI-000?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-000?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-000?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-000?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-000?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-000?style=flat&logo=rstudio&logoColor=white" />
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/PANDAS-FFC0CB?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NUMPY-F2A1C4?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/SKLEARN-FFC0CB?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/PYTORCH-F2A1C4?style=for-the-badge&logo=pytorch&logoColor=11557C" />
+   <img src="https://img.shields.io/badge/TENSORFLOW-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-F2A1C4?style=for-the-badge&logo=matplotlib&logoColor=11557C" />
 
-  <br><br><b>Platforms:</b><br>
-  <img src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white" />
+</p>
 
-  <br><br><b>Data Engineering:</b> ETL Processes, Data Warehouse Design
-  <br><br><b>Machine Learning:</b> Predictive Modeling, Statistical Analysis, Artificial Neural Networks, Spiking Neural Networks, Sentiment Analysis, Natural Language Processing
-  <br><br><b>Version Control:</b>
-  <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/POWER%20BI-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/TABLEAU-F2A1C4?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/EXCEL-FFC0CB?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/POWERPOINT-F2A1C4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A" />
+  <img src="https://img.shields.io/badge/MYSQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQLITE-F2A1C4?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-FFC0CB?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/RSTUDIO-F2A1C4?style=for-the-badge&logo=rstudio&logoColor=75AADB" />
+</p>
 
-  <br><br><b>Soft Skills:</b> Strong Stakeholder Management, Collaborative Leadership, Adaptable Problem Solving, Excellent Communication, Resilience, Rapport Building
+#### Platforms
+<p>
+  <img src="https://img.shields.io/badge/JUPYTER-FFC0CB?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/VSCODE-F2A1C4?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/PYCHARM-FFC0CB?style=for-the-badge&logo=pycharm&logoColor=black" />
+</p>
+
 
 </div>
 
 
-### `CONTRIBUTIONS`
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelajacinto&theme=react-dark" width="100%">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=angelajacinto&show_icons=true&theme=graywhite&hide_border=true" />
-</div>
+
+
 
 
 ### `PROJECTS`
 <div align="center">
 
   <a href="https://github.com/angelajacinto/Bash-Scripting-Cybersecurity-Breach-Data-Processing-Analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Bash-Scripting-Cybersecurity-Breach-Data-Processing-Analysis&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Bash-Scripting-Cybersecurity-Breach-Data-Processing-Analysis&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/angelajacinto/Population-Analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Population-Analysis&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Population-Analysis&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/angelajacinto/YouTube-Earnings-ML-Classifier">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=YouTube-Earnings-ML-Classifier&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=YouTube-Earnings-ML-Classifier&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/angelajacinto/Doctor-Complaints-Statistical-Modeling-R">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Doctor-Complaints-Statistical-Modeling-R&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Doctor-Complaints-Statistical-Modeling-R&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/angelajacinto/SQL-Driven-Phone-Rental-Management">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=SQL-Driven-Phone-Rental-Management&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=SQL-Driven-Phone-Rental-Management&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/uwa-computer-science/project-12-prototype-bio-acoustic-detection-system-soundsentinel">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=uwa-computer-science&repo=project-12-prototype-bio-acoustic-detection-system-soundsentinel&theme=graywhite&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=uwa-computer-science&repo=project-12-prototype-bio-acoustic-detection-system-soundsentinel&theme=dracula&hide_border=true" />
   </a>
+
+</div>
+
+
+
+### `CONTRIBUTIONS`
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelajacinto&theme=github&area=true&hide_border=true&start_date=2024-03-23&title_color=FFFFFF&xaxis_color=FFFFFF&yaxis_color=FFFFFF&line=FFC0CB&point=F2A1C4&bg_color=1A1A1A" width="100%">
+
 
 </div>
