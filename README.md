@@ -17,7 +17,7 @@ I am currently exploring scaling projects in cloud platforms like AWS and Azure,
 <a href="https://www.linkedin.com/in/angelajac/" style="font-size: 20px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/angelajacinto/angelajacinto/blob/main/resume_angelajacinto.pdf" style="font-size: 20px;">
+<a href="https://github.com/angelajacinto/angelajacinto/raw/main/resume_angelajacinto.pdf" style="font-size: 20px;">
   <img src="https://img.shields.io/badge/-Resume-8B0000?style=flat&logo=adobe&logoColor=white" />
 </a>
 
