@@ -80,16 +80,16 @@ I am currently exploring scaling projects in cloud platforms like AWS and Azure,
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Bash-Scripting-Cybersecurity-Breach-Data-Processing-Analysis&theme=dracula&hide_border=true" />
   </a>
 
-  <a href="https://github.com/angelajacinto/Population-Analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Population-Analysis&theme=dracula&hide_border=true" />
-  </a>
-
   <a href="https://github.com/angelajacinto/YouTube-Earnings-ML-Classifier">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=YouTube-Earnings-ML-Classifier&theme=dracula&hide_border=true" />
   </a>
 
-  <a href="https://github.com/angelajacinto/Doctor-Complaints-Statistical-Modeling-R">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=Doctor-Complaints-Statistical-Modeling-R&theme=dracula&hide_border=true" />
+  <a href="https://github.com/angelajacinto/bilstm-aspect-based-sentiment">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=bilstm-aspect-based-sentiment&theme=dracula&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/angelajacinto/CommBank-DS-Forage-API-AWS-Integration">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=angelajacinto&repo=CommBank-DS-Forage-API-AWS-Integration&theme=dracula&hide_border=true" />
   </a>
 
   <a href="https://github.com/angelajacinto/SQL-Driven-Phone-Rental-Management">
