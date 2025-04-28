@@ -1,7 +1,7 @@
 <h1 align="left">Angela Jacinto</h1>
 
 <p align="left">
-Hi, I'm Angela Jacinto. A Data Science graduate from The University of Western Australia.<br><br>
+Hi! I'm Angela Jacinto. A Data Science graduate from The University of Western Australia.<br><br>
 I have developed my programming and tech skills in Python, R, SQL, and Power BI through real-world applications in bioacoustics, statistical modeling, dashboard design, and automation scripting.<br><br>
 I have a strong core foundation in machine learning, data preprocessing, and stakeholder-oriented data storytelling.<br><br>
 I am currently exploring scaling projects in cloud platforms like AWS and Azure, integrating MLOps practices, and building robust data pipelines for production-ready solutions.
